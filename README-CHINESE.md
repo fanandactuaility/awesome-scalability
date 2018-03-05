@@ -1,4 +1,5 @@
 # Awesome Scalability, Availability, and Stability Back-end Design Patterns
+# 可扩展性，可用性，稳定性后端设计模式
 
 An updated and curated list of selected readings to illustrate Scalability, Availability, and Stability Design Patterns in Back-end Development. Concepts are explained in the articles of notable engineers (Werner Vogels, James Hamilton, Jeff Atwood, Martin Fowler, Robert C. Martin, Tom White, Martin Kleppmann) and high quality reference sources (highscalability.com, infoq.com, official engineering blogs, etc). Case studies are taken from battle-tested systems those are serving millions to billions of users (Netflix, Alibaba, Flipkart, LINE, Spotify, etc).
 
