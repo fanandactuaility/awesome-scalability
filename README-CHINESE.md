@@ -9,28 +9,29 @@
 
 
 
-#### What if your Back-end went slow?
-> Understand your problems: performance problem (slow for a single user) or scalability problem (fast for a single user but slow under heavy load) by reviewing [design principles](#principles). You can also check some [talks](#talks) of elite engineers from tech giants (Google, Facebook, Instagram, etc) to see how they build and scale their systems.
 
-#### What if your Back-end went down?
-> "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, CTO at Uber Technologies Inc.
+#### 如果你的后端变慢了怎么办？
+> 了解现在你存在的问题：通过review了解性能问题（单用户慢）或者高并发问题（单用户快，但是没有办法解决高并发问题）。当然你也可以学习顶级的巨头(Google, Facebook, Instagram, etc)的讲座，了解这些精英工程师是是规划和扩展他们的系统的。
 
-#### Community Power
 
-> Contributions are greatly welcome! You may want to take a look at the [contribution guidelines](CONTRIBUTING.md).
-> If you find this project helpful, [please help me share it on Twitter!](https://ctt.ec/V8B2p) Thank you very much :heart: 
+#### 如果你后端出现故障怎么办
+> 只要你保持冷静，就算你的系统都故障（丢失）了，你也可以快速恢复 - Thuan Pham Uber的CTO。
 
-## Contents
-- [Principles](#principles)
-- [Scalability](#scalability)
-- [Availability](#availability)
-- [Stability](#stability)
-- [Performance](#performance)
-- [Other Aspects](#others)
-- [Talks](#talks)
-- [Books](#books)
+#### 社区权益
 
-## Principles
+> 非常还原大家参与贡献，贡献名单可以查看[contribution guidelines](CONTRIBUTING.md).
+
+## 目录
+- [原则](#原则)
+- [可扩展性](#scalability)
+- [可用性](#availability)
+- [稳定性](#stability)
+- [性能](#performance)
+- [其他方面](#others)
+- [会谈](#talks)
+- [图书](#books)
+
+## 原则
 * [My Scaling Hero - Jeff Atwood](https://blog.codinghorror.com/my-scaling-hero/)
 * [Principles of Chaos Engineering](https://www.usenix.org/conference/srecon17americas/program/presentation/rosenthal)
 * [Finding the Order in Chaos](https://www.usenix.org/conference/srecon16/program/presentation/lueder)
