@@ -19,7 +19,7 @@
 
 #### 社区权益
 
-> 非常还原大家参与贡献，贡献名单可以查看[contribution guidelines](CONTRIBUTING.md).
+> 非常还原大家参与贡献，贡献名单可以查看[contribution guidelines](CONTRIBUTING-CHINESE.md).
 
 ## 目录
 - [原则](#原则)
