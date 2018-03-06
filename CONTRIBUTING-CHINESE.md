@@ -1,16 +1,19 @@
-# Contribution Guidelines
+# 贡献者指南
 
-## Adding to this list
+## 添加到这个列表中
 
-Please ensure your pull request adheres to the following guidelines:
 
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make sure the list is useful before submitting. That implies it has enough content and every item has a good succinct description.
-- Make an individual pull request for each suggestion.
-- Use the following format: `[List Name](link)`
-- Link additions should be added to the bottom of the relevant category.
-- New categories or improvements to the existing categorization are welcome.
-- Check your spelling and grammar.
-- Make sure your text editor is set to remove trailing whitespace.
+请确保您的拉取请求符合以下准则：
 
-Thank you for your contributions!
+- 在提交新的建议之前，请搜索之前的内容，因为可能存在重复。
+- 确保提交的列表是有用的，包括他需要包含丰富的内容和简介的标题描述。
+- 正对每个建议拉取对应的请求
+- 使用下列格式`[标题](链接地址)`
+- 链接应添加到相关类别的底部。
+- 欢迎对现有和新分类进行修改。
+- 检查你拼写和语法。
+- 确保你对文本编辑器删除了末尾对空白。
+- 翻译有问题请在问题里面提交，谢谢。
+
+
+谢谢你到贡献！
