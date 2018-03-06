@@ -1,13 +1,13 @@
 # Awesome Scalability, Availability, and Stability Back-end Design Patterns
 # 可扩展性，可用性，稳定性后端设计模式
 
-该项目提供了大量精选的阅读材料，旨在帮助后台开发者们能够借助项目中各个文献的思路做出一个具有延展性，可用性，稳定性的后台。这个概念虽然模糊，但是借由著名工程师（Martin Fowler，Robert C. Martin，Tom White等）和高质量资源（highscalability.com，infoq.com等）的诠释，相信大家能从中理解并学到有用的东西。
+该项目提供了大量精选的阅读材料，旨在帮助后台开发者们能够借助项目中各个文献的思路做出一个具有延展性，可用性，稳定性的后台。这个概念虽然模糊，但是借由著名工程师（Martin Fowler，Robert C. Martin，Tom White等）和高质量资源（highscalability.com，infoq.com等）的诠释，相信大家能从中理解并学到有用的东西(Netflix, Alibaba, Flipkart, LINE, Spotify, etc).。
 
 
 
 项目涵盖各个方面。主要分为原则、可扩展性、稳定性、其他方面、会谈、图书七个板块。包括了异常处理，数据库策略等内容。
 
-An updated and curated list of selected readings to illustrate Scalability, Availability, and Stability Design Patterns in Back-end Development. Concepts are explained in the articles of notable engineers (Werner Vogels, James Hamilton, Jeff Atwood, Martin Fowler, Robert C. Martin, Tom White, Martin Kleppmann) and high quality reference sources (highscalability.com, infoq.com, official engineering blogs, etc). Case studies are taken from battle-tested systems those are serving millions to billions of users (Netflix, Alibaba, Flipkart, LINE, Spotify, etc).
+
 
 #### What if your Back-end went slow?
 > Understand your problems: performance problem (slow for a single user) or scalability problem (fast for a single user but slow under heavy load) by reviewing [design principles](#principles). You can also check some [talks](#talks) of elite engineers from tech giants (Google, Facebook, Instagram, etc) to see how they build and scale their systems.
